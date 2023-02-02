@@ -2,3 +2,7 @@ body{
     background-color: bisque;
     color: rgb(99, 219, 219);
 }
+h1{
+    font-style: italic;
+    color: cornsilk;
+}
